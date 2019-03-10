@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Dijkstra {
 	/*
-	 * 10-03-2019
+	 * 10-03-2019.
 	 * 
 	 */
 	public static void main(String[] arg) {
