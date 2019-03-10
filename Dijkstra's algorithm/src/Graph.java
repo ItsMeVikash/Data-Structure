@@ -1,7 +1,7 @@
 import java.util.*;
 
 /*
- * 10-3-2019
+ * 10-3-2019.
  */
 public class Graph {
 	private ArrayList<Vertex> vertices;
