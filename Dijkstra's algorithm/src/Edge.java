@@ -1,4 +1,4 @@
-//To represent the edges in the graph. 10-03-2019
+//To represent the edges in the graph. 10-03-2019.
 public class Edge {
 	public final Vertex target;
 	public final double weight;
