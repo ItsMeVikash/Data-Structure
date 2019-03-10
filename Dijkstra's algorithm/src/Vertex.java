@@ -1,7 +1,7 @@
 import java.util.*;
 
 /*
- * 10-03-2019
+ * 10-03-2019.
  */
 public class Vertex implements Comparable<Vertex> {
 	public final String name;
